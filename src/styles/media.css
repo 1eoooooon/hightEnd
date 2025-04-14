@@ -133,15 +133,15 @@
   }
 
   .swiper-slide_1th {
-    background-image: url('../images/swiper-slide_1th-768.png');
+    background-image: url('../images/swiper-slide_1th-768.webp');
   }
 
   .swiper-slide_2th {
-    background-image: url('../images/swiper-slide_2th-768.png');
+    background-image: url('../images/swiper-slide_2th-768.webp');
   }
 
   .swiper-slide_3th {
-    background-image: url('../images/swiper-slide_3th-768.png');
+    background-image: url('../images/swiper-slide_3th-768.webp');
   }
 
   .banner__content-block {
@@ -281,7 +281,7 @@
   /* contact us */
   .contact-us {
     padding-bottom: 119px;
-    background-image: url("../images/contact-us__background_768.png");
+    background-image: url("../images/contact-us__background_768.webp");
   }
 
   .contact-us__content-block {
@@ -370,15 +370,15 @@
   }
 
   .swiper-slide_1th {
-    background-image: url('../images/swiper-slide_1th-360.png');
+    background-image: url('../images/swiper-slide_1th-360.webp');
   }
 
   .swiper-slide_2th {
-    background-image: url('../images/swiper-slide_2th-360.png');
+    background-image: url('../images/swiper-slide_2th-360.webp');
   }
 
   .swiper-slide_3th {
-    background-image: url('../images/swiper-slide_3th-360.png');
+    background-image: url('../images/swiper-slide_3th-360.webp');
   }
 
   .banner__content-block {
@@ -583,7 +583,7 @@
   /* contact us */
   .contact-us {
     padding-bottom: 96px;
-    background-image: url("../images/contact-us__background_360.png");
+    background-image: url("../images/contact-us__background_360.webp");
   }
 
   .contact-us__content-block {
@@ -677,7 +677,7 @@
   /* contact us */
   .contact-us {
     padding-bottom: 96px;
-    background-image: url("../images/contact-us__background_360.png");
+    background-image: url("../images/contact-us__background_360.webp");
   }
 
   .contact-us__content-block {

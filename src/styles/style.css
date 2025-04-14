@@ -215,15 +215,15 @@ p {
 }
 
 .swiper-slide_1th {
-  background-image: url('../images/swiper-slide_1th.png');
+  background-image: url('../images/swiper-slide_1th.webp');
 }
 
 .swiper-slide_2th {
-  background-image: url('../images/swiper-slide_2th.png');
+  background-image: url('../images/swiper-slide_2th.webp');
 }
 
 .swiper-slide_3th {
-  background-image: url('../images/swiper-slide_3th.png');
+  background-image: url('../images/swiper-slide_3th.webp');
 }
 
 .swiper-pagination {
@@ -721,7 +721,7 @@ p {
 .contact-us {
   display: flex;
   padding-bottom: 159px;
-  background-image: url("../images/contact-us__background.png");
+  background-image: url("../images/contact-us__background.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
